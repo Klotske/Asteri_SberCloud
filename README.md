@@ -3,6 +3,7 @@
 ## Краткое описание
 
 * Ссылка на прототип в [Figma](https://www.figma.com/file/CbpM43zxLLE8wvrPQUSwn3/AsteriCloud?node-id=0%3A1)
+* Репозиторий приложения: [AsteriCloud](https://github.com/Klotske/AsteriCloud)
 
 Члены команды:
 
