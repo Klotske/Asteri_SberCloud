@@ -2,7 +2,7 @@
 
 ## Краткое описание
 
-* Ссылка на прототип в [Figma](https://www.figma.com/file/CbpM43zxLLE8wvrPQUSwn3/Untitled?node-id=0%3A1)
+* Ссылка на прототип в [Figma](https://www.figma.com/file/CbpM43zxLLE8wvrPQUSwn3/AsteriCloud?node-id=0%3A1)
 
 Члены команды:
 
